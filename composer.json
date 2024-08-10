@@ -1,0 +1,19 @@
+{
+    "name": "shohjahon/month-2-exam",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Shohjahon\\Month2Exam\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "foziljonvc",
+            "email": "shohjahonergashev707@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6",
+        "ext-pdo": "*"
+    }
+}
