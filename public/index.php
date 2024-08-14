@@ -1,15 +1,16 @@
 <!doctype html>
-<html>
+<html lang="">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="src/output.css" rel="stylesheet">
+    <link href="public/src/output.css" rel="stylesheet">
+    <title>Tail wain</title>
 </head>
 <body>
 
 <div class="flex justify-center items-center h-screen">
     <div>
-        <form method="post" action="././index.php">
+        <form method="post" action="/input">
             <div class="flex justify-center items-center h-screen">
                 <div>
                     <label for="input" class="block text-center text-lg font-medium text-gray-700">
